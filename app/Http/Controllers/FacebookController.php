@@ -31,7 +31,6 @@ class FacebookController extends Controller
         return response()->json([
             'response' => 'ok'
         ],200); 
-
     }
 
     public function logout(Request $request){
