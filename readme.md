@@ -6,7 +6,7 @@
 
 ## Running
 
-* For running code start localhost webserver
+* To run the code start localhost webserver
 
  
 
